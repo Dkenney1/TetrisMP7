@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tetris (MP7)</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_test">Test String</string>
+</resources>
